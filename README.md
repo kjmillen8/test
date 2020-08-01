@@ -1,4 +1,4 @@
 #Heading 1
-#Normal text
+Normal text
 ##Heading 2
-##Normal text 
+Normal text 
